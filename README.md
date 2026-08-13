@@ -1,0 +1,1 @@
+My first neural net. Worked through PyTorch's CIFAR-10 tutorial, then swapped in a real dataset - HAM10000 skin lesion images — to get hands-on with CNNs and transfer learning. Fine-tuned a DenseNet121, did lesion-level train/val/test splitting to avoid leakage between duplicate images, and played with class-imbalance handling. Not polished, just where I learned the basics.
